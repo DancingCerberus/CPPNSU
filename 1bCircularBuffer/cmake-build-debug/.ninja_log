@@ -1,0 +1,12 @@
+# ninja log v5
+1	384	7228167607565892	libcircularbufferlib.dll	17c881f3f30a7b57
+1	384	7228167607565892	libcircularbufferlib.dll.a	17c881f3f30a7b57
+10431	13168	7240599355602067	lib/libgtest.a	9ca3a0b61cea2d20
+8	1437	7246717032113487	test/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	cf010eead6f78170
+5	2846	7246066110948100	test/CMakeFiles/Tests.dir/CreationTest.cpp.obj	889d73edc3fc0147
+13168	13255	7240599356480891	lib/libgtest_main.a	a29811064a86f851
+4	2543	7246065738042992	test/CMakeFiles/Tests.dir/ChangeMethodsTest.cpp.obj	80ba9e836834da05
+13	14371	7246717161078358	test/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	e964eaa9d9356ffb
+2544	5630	7246065768887530	test/Tests.exe	1ae836b3978f730d
+16	1093	7246066093400434	test/CMakeFiles/Tests.dir/TestUtils.cpp.obj	1b56c67f6b497fca
+4	1049	7252084733616819	build.ninja	c361eb42b65e4125

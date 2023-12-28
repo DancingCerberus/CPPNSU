@@ -1,0 +1,14 @@
+C:\Users\Eduard\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Eduard/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "D:\CLionProjects\CPPNSU\example 2\lib" -B "D:\CLionProjects\CPPNSU\example 2\lib\cmake-build-debug"
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Could NOT find TIFF (missing: TIFF_LIBRARY TIFF_INCLUDE_DIR) 
+-- Could NOT find BLAS (missing: BLAS_LIBRARIES) 
+-- Could NOT find LAPACK (missing: LAPACK_LIBRARIES) 
+    Reason given by package: LAPACK could not be found because dependency BLAS could not be found.
+
+-- Could NOT find BLAS (missing: BLAS_LIBRARIES) 
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+-- Could NOT find FFTW (missing: FFTW_INCLUDE_DIRS) 
+Setting matplotplusplus compiler options
+-- Configuring done (1.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/CLionProjects/CPPNSU/example 2/lib/cmake-build-debug

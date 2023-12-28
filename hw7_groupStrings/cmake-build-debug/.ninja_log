@@ -1,0 +1,5 @@
+# ninja log v5
+1239	1439	7251628776945297	hw7_groupStrings.exe	ed44c4181a5ac3c3
+2	1239	7251628774913958	CMakeFiles/hw7_groupStrings.dir/main.cpp.obj	ebbf0690c840cc5f
+3	668	7251615211457228	CMakeFiles/hw7_groupStrings.dir/example_3/Test_runner.cpp.obj	38c6846b027aa18b
+1	175	7251629165581585	build.ninja	915d565c605a7b05

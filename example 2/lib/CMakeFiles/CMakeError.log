@@ -1,0 +1,62 @@
+Determining if the function sgemm_ exists failed with the following output:
+Change Dir: /mnt/d/CLionProjects/CPPNSU/example 2/lib/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_30427 && [1/2] Building C object CMakeFiles/cmTC_30427.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_30427
+FAILED: cmTC_30427 
+: && /usr/bin/cc -DCHECK_FUNCTION_EXISTS=sgemm_   CMakeFiles/cmTC_30427.dir/CheckFunctionExists.c.o  -o cmTC_30427   && :
+/usr/bin/ld: CMakeFiles/cmTC_30427.dir/CheckFunctionExists.c.o: in function `main':
+CheckFunctionExists.c:(.text+0x14): undefined reference to `sgemm_'
+collect2: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /mnt/d/CLionProjects/CPPNSU/example 2/lib/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_26a23 && [1/2] Building C object CMakeFiles/cmTC_26a23.dir/src.c.o
+[2/2] Linking C executable cmTC_26a23
+FAILED: cmTC_26a23 
+: && /usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD   CMakeFiles/cmTC_26a23.dir/src.c.o  -o cmTC_26a23   && :
+/usr/bin/ld: CMakeFiles/cmTC_26a23.dir/src.c.o: in function `main':
+src.c:(.text+0x46): undefined reference to `pthread_create'
+/usr/bin/ld: src.c:(.text+0x52): undefined reference to `pthread_detach'
+/usr/bin/ld: src.c:(.text+0x63): undefined reference to `pthread_join'
+collect2: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+#include <pthread.h>
+
+void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /mnt/d/CLionProjects/CPPNSU/example 2/lib/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_d4346 && [1/2] Building C object CMakeFiles/cmTC_d4346.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_d4346
+FAILED: cmTC_d4346 
+: && /usr/bin/cc -DCHECK_FUNCTION_EXISTS=pthread_create   CMakeFiles/cmTC_d4346.dir/CheckFunctionExists.c.o  -o cmTC_d4346  -lpthreads && :
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+

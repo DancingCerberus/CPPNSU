@@ -1,0 +1,13 @@
+# ninja log v5
+7	988	7254523637440962	CMakeFiles/Dilemma1.dir/Strategy/CooperatorStrategy.cpp.obj	34d97331b754a7c5
+3	1102	7254525567634454	CMakeFiles/Dilemma1.dir/Strategy/StrategyFactory.cpp.obj	5224cba93d162dd9
+4	1437	7254546614869050	CMakeFiles/Dilemma1.dir/main.cpp.obj	cf3bc314c552020e
+11	953	7254530632941449	CMakeFiles/Dilemma1.dir/BetrayerStategy.cpp.obj	4d828c3546b98121
+30	1747	7254530640976775	CMakeFiles/Dilemma1.dir/Competition/TournamentCompetition.cpp.obj	a2498133be02967a
+3	1090	7254544390776437	CMakeFiles/Dilemma1.dir/Competition/FastCompetition.cpp.obj	127435a0497ff3c
+20	1220	7254523639759557	CMakeFiles/Dilemma1.dir/Strategy/RandomStrategy.cpp.obj	affc862c0d08ac1a
+1220	1915	7254523646756908	CMakeFiles/Dilemma1.dir/Strategy/VengefulStrategy.cpp.obj	da280c6b0b7c0817
+17	1719	7254530640676104	CMakeFiles/Dilemma1.dir/Competition/DetailedCompetition.cpp.obj	e1aaa2ee367736e2
+38	1788	7254530641381990	CMakeFiles/Dilemma1.dir/Parsers.cpp.obj	e5a4d3dbceb9cbca
+1437	1715	7254546617672425	Dilemma1.exe	f2dffc7b8e2e054f
+1	223	7254556444963285	build.ninja	9a55640896df8273

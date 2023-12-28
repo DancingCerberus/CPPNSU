@@ -1,0 +1,4 @@
+Cannot generate into D:\CLionProjects\CPPNSU\hw5_Modules0a
+It is already used for project \mnt\d\CLionProjects\CPPNSU\hw5_Modules0a
+
+Please either delete it manually or select another generation directory

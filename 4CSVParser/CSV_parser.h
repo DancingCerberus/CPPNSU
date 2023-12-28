@@ -22,12 +22,12 @@ class File {
   }
 };
 
-class FileOnDemand {
+class FileFrom {
   std::string name;
   File *file;
  public:
-  explicit FileOnDemand(std::string name) : name(std::move(name)), file(nullptr) {}
-  ~FileOnDemand() {
+  explicit FileFrom(std::string name) : name(std::move(name)), file(nullptr) {}
+  ~FileFrom() {
     delete file;
   }
 
@@ -62,7 +62,7 @@ struct B : B<I + 1, Max, Args...> {
 
 template<int Max, typename... Args>
 struct B<Max, Max, Args...> {
-  static void a(const vector<string>& vec, tuple<Args...> t, tuple<Args...> *b) {}
+  static void a(const vector<string> &vec, tuple<Args...> t, tuple<Args...> *b) {}
 };
 
 template<int Count, typename... Args>
@@ -76,7 +76,7 @@ class CSVParser {
   vector<tuple<Args...>> strings;
 
  public:
-  CSVParser(FileOnDemand &in, char col_del, char row_del, char scr, int countLines) {
+  CSVParser(FileFrom &in, char col_del, char row_del, char scr, int countLines) {
     string a;
     for (int i = 0; in->read(a, row_del); i++) {
       if (i >= countLines) {

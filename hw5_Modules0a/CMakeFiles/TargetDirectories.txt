@@ -1,0 +1,3 @@
+/mnt/d/CLionProjects/CPPNSU/hw5_Modules0a/CMakeFiles/hw5_Modules0a.dir
+/mnt/d/CLionProjects/CPPNSU/hw5_Modules0a/CMakeFiles/edit_cache.dir
+/mnt/d/CLionProjects/CPPNSU/hw5_Modules0a/CMakeFiles/rebuild_cache.dir

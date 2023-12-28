@@ -1,0 +1,12 @@
+# ninja log v5
+1	681	7252118724653733	CMakeFiles/hw4_PersonalBudget.dir/main.cpp.obj	ea2474ee252919a
+6	691	7252118724694212	CMakeFiles/hw4_PersonalBudget.dir/Date.cpp.obj	16bf27f893da102c
+3	616	7252119194501431	CMakeFiles/hw4_PersonalBudget.dir/main.cpp.obj	ea2474ee252919a
+14	644	7252119194787676	CMakeFiles/hw4_PersonalBudget.dir/Budget.cpp.obj	adb06a9b918939f0
+8	650	7252119194817867	CMakeFiles/hw4_PersonalBudget.dir/Date.cpp.obj	16bf27f893da102c
+650	865	7252119197010015	hw4_PersonalBudget.exe	d6b702b805c9d889
+2	641	7252774353806007	CMakeFiles/hw4_PersonalBudget.dir/main.cpp.obj	ea2474ee252919a
+9	648	7252774353846019	CMakeFiles/hw4_PersonalBudget.dir/Budget.cpp.obj	adb06a9b918939f0
+651	794	7252774355328598	hw4_PersonalBudget.exe	d6b702b805c9d889
+3	580	7252774777352902	CMakeFiles/hw4_PersonalBudget.dir/main.cpp.obj	ea2474ee252919a
+580	715	7252774778696085	hw4_PersonalBudget.exe	d6b702b805c9d889

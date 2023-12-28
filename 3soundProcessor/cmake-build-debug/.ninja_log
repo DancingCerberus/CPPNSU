@@ -1,0 +1,21 @@
+# ninja log v5
+1	182	7254402432752504	build.ninja	3f7be7dff424e384
+7	979	7254379223160297	CMakeFiles/3soundProcessor.dir/Command/MixCommand.cpp.obj	77fe9239dde1a59a
+9	1127	7254377915025068	CMakeFiles/3soundProcessor.dir/WavEncoder.cpp.obj	419ef21e1f57f84
+5	1109	7254377914959254	CMakeFiles/3soundProcessor.dir/Audio.cpp.obj	2fac3e4254f54d99
+7	961	7254378347529199	CMakeFiles/3soundProcessor.dir/InsertCommand.cpp.obj	763cb69649cf8829
+26	997	7254379223336706	CMakeFiles/3soundProcessor.dir/Command/InsertCommand.cpp.obj	57d18b6f06889fc5
+13	965	7254379223022649	CMakeFiles/3soundProcessor.dir/Command/MuteCommand.cpp.obj	e446b8e42e81c555
+17	978	7254378347699586	CMakeFiles/3soundProcessor.dir/MuteCommand.cpp.obj	39124af23cb29883
+23	1010	7254378348020120	CMakeFiles/3soundProcessor.dir/MixCommand.cpp.obj	a7a93bc5f9fea801
+3	1075	7254379224109721	CMakeFiles/3soundProcessor.dir/main.cpp.obj	9bf7d90a44cfc52a
+19	1365	7254379227018754	CMakeFiles/3soundProcessor.dir/Application.cpp.obj	1a30f8a4beddc583
+1366	1641	7254379229801093	3soundProcessor.exe	89da8be45613ae0
+4	818	7254421679847203	CMakeFiles/3soundProcessor.dir/main.cpp.obj	9bf7d90a44cfc52a
+818	1112	7254421682805818	3soundProcessor.exe	89da8be45613ae0
+3	785	7254422255485229	CMakeFiles/3soundProcessor.dir/main.cpp.obj	9bf7d90a44cfc52a
+785	1012	7254422257770709	3soundProcessor.exe	89da8be45613ae0
+3	747	7254423458695742	CMakeFiles/3soundProcessor.dir/main.cpp.obj	9bf7d90a44cfc52a
+747	974	7254423460960049	3soundProcessor.exe	89da8be45613ae0
+3	764	7254424424711646	CMakeFiles/3soundProcessor.dir/main.cpp.obj	9bf7d90a44cfc52a
+764	996	7254424427025627	3soundProcessor.exe	89da8be45613ae0

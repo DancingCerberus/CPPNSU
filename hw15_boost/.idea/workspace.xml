@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="hw15_boost" targetName="hw15_boost" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ed8030f-199d-4a03-ab30-68dc36e30ddd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../hw10INI/Section.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/CSV_parser.h" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/CSV_parser.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/.cmake/api/v1/reply/cache-v2-422a8c2219481d9158ef.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-1ac6c9aff15e68f08fee.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-cec9b80d0ff5425c6f92.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-27T20-44-23-0161.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/.cmake/api/v1/reply/target-lab4-Debug-0c6d8e0cc85e917bb274.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/lab4.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/lab4.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/lab4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/lab4.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/test_alt.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/test_alt.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/test_standard.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/cmake-build-debug/test_standard.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4CSVParser/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../4CSVParser/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2a9zPlu5mALsBP6RO8M9NSIN4Ax" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw15_boost" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hw15_boost" TARGET_NAME="hw15_boost" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hw15_boost" RUN_TARGET_NAME="hw15_boost">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ed8030f-199d-4a03-ab30-68dc36e30ddd" name="Changes" comment="" />
+      <created>1703745561098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703745561098</updated>
+      <workItem from="1703745562626" duration="372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+# ninja log v5
+1	197	7251192569517520	build.ninja	5aff493be8c3d2ad
+588	744	7251189982439410	hw3_Rational.exe	bbb52b08f9adb22
+0	586	7251189980849099	CMakeFiles/hw3_Rational.dir/main.cpp.obj	71893e1aa17251eb
+7	923	7252751902395118	CMakeFiles/hw3_Rational.dir/main.cpp.obj	71893e1aa17251eb
+924	1147	7252751904632055	hw3_Rational.exe	bbb52b08f9adb22
+3	546	7252752259319525	CMakeFiles/hw3_Rational.dir/main.cpp.obj	71893e1aa17251eb
+547	676	7252752260705965	hw3_Rational.exe	bbb52b08f9adb22
+4	543	7252752487424913	CMakeFiles/hw3_Rational.dir/main.cpp.obj	71893e1aa17251eb
+543	664	7252752488641995	hw3_Rational.exe	bbb52b08f9adb22
+4	539	7252757451654695	CMakeFiles/hw3_Rational.dir/main.cpp.obj	71893e1aa17251eb
+540	660	7252757452855327	hw3_Rational.exe	bbb52b08f9adb22
+4	631	7252758592971244	CMakeFiles/hw3_Rational.dir/main.cpp.obj	71893e1aa17251eb
+631	758	7252758594306759	hw3_Rational.exe	bbb52b08f9adb22
+3	536	7252759532710772	CMakeFiles/hw3_Rational.dir/main.cpp.obj	71893e1aa17251eb
+536	654	7252759533895777	hw3_Rational.exe	bbb52b08f9adb22
+3	534	7252760466543747	CMakeFiles/hw3_Rational.dir/main.cpp.obj	71893e1aa17251eb
+534	650	7252760467713366	hw3_Rational.exe	bbb52b08f9adb22
+3	651	7252770079201341	CMakeFiles/hw3_Rational.dir/main.cpp.obj	71893e1aa17251eb
+652	777	7252770080460354	hw3_Rational.exe	bbb52b08f9adb22
+3	500	7252771638508052	CMakeFiles/hw3_Rational.dir/main.cpp.obj	71893e1aa17251eb
+500	623	7252771639841337	hw3_Rational.exe	bbb52b08f9adb22

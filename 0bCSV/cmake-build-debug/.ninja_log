@@ -1,0 +1,12 @@
+# ninja log v5
+1697	1835	7240597824789611	countFrequenciesCSV.exe	b45380a32c11c4e5
+1	1349	7238046870051304	CMakeFiles/0bCSV.dir/main.cpp.obj	443c62d5a757e9f8
+1350	1767	7238046874236975	0bCSV.exe	8609e12ff0e4aef5
+1	273	7254445513446262	build.ninja	386d36bc895a91ba
+4	1696	7240597823426744	CMakeFiles/countFrequenciesCSV.dir/main.cpp.obj	f3ad5bb8a775a6e4
+6	3502	7254447356853049	CMakeFiles/countFrequenciesCSV.dir/main.cpp.obj	f3ad5bb8a775a6e4
+3503	3753	7254447359265789	countFrequenciesCSV.exe	b45380a32c11c4e5
+3	1664	7254463313817452	CMakeFiles/countFrequenciesCSV.dir/main.cpp.obj	f3ad5bb8a775a6e4
+1665	1828	7254463315429728	countFrequenciesCSV.exe	b45380a32c11c4e5
+3	1572	7254463381191665	CMakeFiles/countFrequenciesCSV.dir/main.cpp.obj	f3ad5bb8a775a6e4
+1572	1718	7254463382634505	countFrequenciesCSV.exe	b45380a32c11c4e5

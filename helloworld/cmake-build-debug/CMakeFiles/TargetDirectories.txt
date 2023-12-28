@@ -1,0 +1,3 @@
+D:/CLionProjects/CPPNSU/helloworld/cmake-build-debug/CMakeFiles/helloworld.dir
+D:/CLionProjects/CPPNSU/helloworld/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/CPPNSU/helloworld/cmake-build-debug/CMakeFiles/rebuild_cache.dir

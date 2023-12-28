@@ -1,0 +1,6 @@
+# ninja log v5
+0	584	7251574468221695	CMakeFiles/hw6_SmsEmailNotifier.dir/main.cpp.obj	f790d292c8f1da10
+1	178	7251579074484832	build.ninja	e35f6b653c52eab6
+2	468	7251574788041467	CMakeFiles/hw6_SmsEmailNotifier.dir/SmsNotifier.cpp.obj	432788327712ad39
+3	454	7251576491825872	CMakeFiles/hw6_SmsEmailNotifier.dir/EmailNotifier.cpp.obj	3de6d4a357d36dc0
+454	586	7251576493211636	hw6_SmsEmailNotifier.exe	f6cf656caf123978

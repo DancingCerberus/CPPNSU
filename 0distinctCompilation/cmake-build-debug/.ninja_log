@@ -1,0 +1,7 @@
+# ninja log v5
+2	356	7155935309602908	CMakeFiles/0distinctCompilation.dir/main.c++.obj	61c1b5bcfc0425f6
+2	271	7155931890319601	CMakeFiles/0distinctCompilation.dir/module1.cpp.obj	a3607d6cc1bab60e
+11	503	7155931082283810	CMakeFiles/0distinctCompilation.dir/module2.c++.obj	9ffef714203d0c4b
+357	648	7155935312550071	0distinctCompilation.exe	35989b04ec88ec20
+1	165	7251249634348111	build.ninja	469ee425b6544801
+5	344	7155935309479996	CMakeFiles/0distinctCompilation.dir/module3.c++.obj	546b7c2978eed9d4

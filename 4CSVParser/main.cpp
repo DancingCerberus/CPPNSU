@@ -13,21 +13,11 @@ int main() {
   cout << sample;
   cout << endl;
 
-  FileOnDemand standard_input("test_standard.csv");
+  FileFrom standard_input("test_standard.csv");
   CSVParser<int, string> standard_parser(standard_input, ',', '\n', '"', 0);
 
-  FileOnDemand alt_input("test_alt.csv");
-  CSVParser<int, string> alt_parser(alt_input, '.', '|', '"', 0);
-
-  cout << "Standard format:" << endl;
+  cout << "Parse CSV:" << endl;
   for (const tuple<int, string> &rs : (vector<tuple<int, string>>) standard_parser) {
-    cout << rs;
-    cout << endl;
-  }
-
-  cout << "Alternative format:" << endl;
-
-  for (const tuple<int, string> &rs : (vector<tuple<int, string>>) alt_parser) {
     cout << rs;
     cout << endl;
   }
